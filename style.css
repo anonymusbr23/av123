@@ -79,6 +79,7 @@ main {
 
 #btn-start {
     background-color: #17b651;
+    font-size: 1.375em;
 }
 
 .feed ul {
@@ -253,7 +254,6 @@ h1 {
     font-weight: 600;
     color: #FFF;
     letter-spacing: 0.5px;
-    text-shadow: 0 0 60px #000;
 }
 
 h1 span, h3 span {
