@@ -234,7 +234,7 @@ img {
 
 .barra {
     background-color: #970fca;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 900;
     color: #FFF;
 }
@@ -360,7 +360,7 @@ button {
 .fb-comments {
     border: 1px solid #e9ebee!important;
     border-radius: 18px;
-    padding: 12px;
+    padding: 10px;
     margin-top: 10px;
     position: relative;
     color: #888;
@@ -490,7 +490,7 @@ h4.fakebook {
         font-size: 16px;
     }
     .logo {
-        max-width: 280px;
+        max-width: 90%;
     }
     
     h1 {
